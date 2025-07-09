@@ -24,3 +24,4 @@ for i, name in ipairs(fruits) do
         GrantFruitRemote:FireServer(name)
     end)
 end
+print("Hello from GitHub!")
